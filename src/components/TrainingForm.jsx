@@ -16,7 +16,7 @@ const App = () => {
   const [baseTimezone, setBaseTimezone] = useState("America/New_York");
 
   // Available base timezones for the dropdown
-  const timezones = ["Asia/Kolkata", "America/New_York", "Europe/London", "Australia/Sydney", "Asia/Singapore"];
+  const timezones = ["Asia/Kolkata", "America/New_York", "Europe/London", "Australia/Sydney", "Asia/Singapore","Europe/Berlin",];
 
   // Add or remove a date to/from the selectedDates array
   const handleDateChange = (date) => {
