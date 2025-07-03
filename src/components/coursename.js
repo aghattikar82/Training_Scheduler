@@ -139,5 +139,9 @@ export const courseList = [
     "Agile Data Science Boot Camp",
     "Agile Infrastructure Boot Camp Training",
     "Agile Marketing Boot Camp Training",
+    "Advanced SAFe Practice Consultant (SPC) Certification Path",
+    "AI for Product Owners Micro-credential Training",
+    "AI for Scrum Masters Micro-credential Course",
+    "Advanced Scrum Master Certification Path",
     "Others"
   ];
