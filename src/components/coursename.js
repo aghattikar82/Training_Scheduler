@@ -1,5 +1,7 @@
 export const courseList = [
     "Certified Scrum Master (CSM®) Certification Training",
+    "Disciplined Agile Foundations (DAF) Online Training",
+    "Cognitive Project Management in AI (CPMAI) Certification Training",
     "Certified Scrum Product Owner (CSPO®) Certification Training",
     "Advanced Certified Scrum Master (A-CSM®) Certification Training",
     "Advanced Certified Scrum Product Owner (A-CSPO®) Certification Training",
