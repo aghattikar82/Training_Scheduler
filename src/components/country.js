@@ -255,7 +255,6 @@ export const countryData = [
     { timezone: "Asia/Kuala_Lumpur",country: "Malaysia",city: "shah alam",region:"APAC"},
     { timezone: "Asia/Kuching",country: "Malaysia",city: "Victoria",region:"APAC"},
     { timezone: "Indian/Maldives" ,country: "Maldives",city: "Male",region:"APAC"},
-    { timezone: "Europe/Malta",country: "Malta",city: "Lagos",region:"Europe"},
     { timezone: "Europe/Malta",country: "Malta",city: "Valletta",region:"Europe"},
     { timezone: "America/Ojinaga",country: "Mexico",city: "Ciudad Juarez",region:"America"},
     { timezone: "America/Mexico_City",country: "Mexico",city: "Ecatepec",region:"America"},
