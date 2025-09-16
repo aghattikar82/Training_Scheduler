@@ -143,5 +143,8 @@ export const courseList = [
     "AI for Product Owners Micro-credential Training",
     "AI for Scrum Masters Micro-credential Course",
     "Advanced Scrum Master Certification Path",
+    "Azure Fundamentals (AZ-900)",
+    "Azure Developer Associate (AZ-204)",
+    "Azure Solutions Architect Expert (AZ-305)"
     "Others"
   ];
