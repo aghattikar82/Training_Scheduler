@@ -145,6 +145,6 @@ export const courseList = [
     "Advanced Scrum Master Certification Path",
     "Azure Fundamentals (AZ-900)",
     "Azure Developer Associate (AZ-204)",
-    "Azure Solutions Architect Expert (AZ-305)"
+    "Azure Solutions Architect Expert (AZ-305)",
     "Others"
   ];
