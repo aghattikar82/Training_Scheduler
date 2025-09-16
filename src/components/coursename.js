@@ -146,6 +146,5 @@ export const courseList = [
     "Microsoft Azure Fundamentals AZ-900 Certification Training",
     "Microsoft Azure Developer Associate (AZ-204) Certification Course",
     "Microsoft Certified Azure Solutions Architect Expert (AZ-305) Certification Training",
-    "",
     "Others"
   ];
