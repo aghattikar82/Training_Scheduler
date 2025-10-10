@@ -146,5 +146,9 @@ export const courseList = [
     "Microsoft Azure Fundamentals AZ-900 Certification Training",
     "Microsoft Azure Developer Associate (AZ-204) Certification Course",
     "Microsoft Certified Azure Solutions Architect Expert (AZ-305) Certification Training",
+    "Generative AI for Scrum Masters Training",
+    "Generative AI for Agile Leaders Training",
+    "Generative AI for Project Managers Training",
+    "Generative AI for Product Owners/Product Managers Certification Training",
     "Others"
   ];
