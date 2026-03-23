@@ -176,5 +176,6 @@ export const courseList = [
     "AI-Empowered SAFe® 6.0 Scrum Master (SSM) Certification Training",
     "Professional Scrum Master–AI Essentials (PSM-AI) Certification Training",
     "Professional Scrum Product Owner–AI Essentials (PSPO-AI Essentials) Certification Training",
+    "PMI-CPMAI Certification Training",
     "Others"
   ];
