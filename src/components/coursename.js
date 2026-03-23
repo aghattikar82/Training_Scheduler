@@ -172,5 +172,10 @@ export const courseList = [
     "AI for Product Planning",
     "AI for Product Metrics",
     "AI for Stakeholder Management",
+    "AI-Empowered SAFe® 6.0 Product Owner/Product Manager (POPM) Certification Training",
+    "AI-Empowered SAFe® 6.0 Scrum Master (SSM) Certification Training",
+    "Professional Scrum Master–AI Essentials (PSM-AI) Certification Training",
+    "Professional Scrum Product Owner–AI Essentials (PSPO-AI Essentials) Certification Training",
+    "PMI-CPMAI Certification Training",
     "Others"
   ];
