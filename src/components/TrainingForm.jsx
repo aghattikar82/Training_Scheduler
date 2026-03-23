@@ -96,10 +96,7 @@ const App = () => {
     setBaseTimezone("America/New_York");
   };
 
-  // Automatically update timezone when a new one is selected
-  const handleTimezoneChange = (event) => {
-    setBaseTimezone(event.target.value);
-  };
+  
 
   // Function to delete a row based on the index
   const handleDeleteRow = (indexToDelete) => {
